@@ -1,0 +1,10 @@
+As part of an initiative to better understand how to define jobs we have scraped 3 job boards within the professional services sector. We would like you to help us gain some insights from this data. 
+We are interested in finding out what skills and attributes (e.g. 'C#','Tax audit','MS Office') best represent a job. We are aware that job titles can be very sparse and would like to group identical, or similar jobs in this representation.
+
+Additionally, we would like users of our platform to be able to write new job postings and match relevant people to them. We would like you to use the aforementioned data and the insights captured to provide a mechanism of generating 'tags' (attributes, skills...) for new job postings. 
+
+Please provide a short justification of your methods and a closing paragraph about any difficulties encountered or additional insight gained. When you submit the task, please let us know how much time was spent on completing it. We ask that you spend no more than 10 hours.
+
+Please feel free to use Python files or Notebooks. We are interested in code quality, as well as the final outcome, so please keep this in mind.
+
+Please feel free to get in touch with any questions you may have.
